@@ -1,6 +1,6 @@
-# 🚀 SmartHire AI – AI-Powered Resume Screening System (Gemini + TF-IDF + Hybrid)
+# 🚀 HireLens AI – AI-Powered Resume Screening System (Gemini + TF-IDF + Hybrid)
 
-**SmartHire AI** is a modern resume screening tool that helps recruiters and HR teams shortlist resumes faster and smarter. It compares uploaded PDF resumes against a job description using three intelligent scoring methods:
+**HireLens AI** is a modern resume screening tool that helps recruiters and HR teams shortlist resumes faster and smarter. It compares uploaded PDF resumes against a job description using three intelligent scoring methods:
 
 - 📌 **TF-IDF (Term Frequency–Inverse Document Frequency)** – Traditional keyword-based similarity
 - 🤖 **Gemini AI (Google Generative AI)** – LLM-based deep contextual matching
