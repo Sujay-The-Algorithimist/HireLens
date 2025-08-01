@@ -2,7 +2,7 @@
 
 📘 **HireLens AI** is a modern resume screening tool that helps recruiters and HR teams shortlist resumes faster and smarter. It compares uploaded PDF resumes against a job description using three intelligent scoring methods:
 
-- 📌 **TF-IDF (Term Frequency–Inverse Document Frequency)** – Traditional keyword-based similarity
+- 📌 **TF-IDF (Term Frequency–Inverse Document Frequency)** – Traditional keyword-based similarity(cosine similarity)
 - 🤖 **Gemini AI (Google Generative AI)** – LLM-based deep contextual matching
 - 🔀 **Hybrid** – Combines the strengths of both TF-IDF and Gemini for more accurate scoring
 
